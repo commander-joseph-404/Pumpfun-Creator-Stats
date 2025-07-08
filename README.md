@@ -56,45 +56,6 @@ git clone https://github.com/your-username/pumpfun-creator-stats.git
 cd pumpfun-creator-stats
 ---
 
-### 2. Install Dependencies
-Make sure you have Python 3.10 or higher installed. Then run:
-
-```bash
-pip install -r requirements.txt
-
----
-### 3. Run the App Locally
-To launch the Streamlit app in your browser:
-
-```bash
-streamlit run main.py
-
----
-## 🧑‍💻 Author
-
-Built with 🦁 by [@Comm_Joseph](https://x.com/Comm_Joseph)
-
-🚀 2. Install Dependencies
-Make sure you have Python 3.10+ installed. Then run:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-If you're using poetry:
-
-bash
-Copy
-Edit
-poetry install
-🧪 3. Run the App
-To start the Streamlit app locally:
-
-bash
-Copy
-Edit
-streamlit run app.py
-🧑‍💻 Author
 
 
 
