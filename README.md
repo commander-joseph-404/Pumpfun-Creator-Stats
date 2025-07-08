@@ -50,6 +50,7 @@ A powerful Streamlit app that analyzes token creation activity on [Pump.fun](htt
 ## 🧰 How to Run Locally
 
 ### 1. Clone the repository
+
 ```bash
 git clone https://github.com/your-username/pumpfun-creator-stats.git
 cd pumpfun-creator-stats
@@ -57,12 +58,14 @@ cd pumpfun-creator-stats
 
 ### 2. Install Dependencies
 Make sure you have Python 3.10 or higher installed. Then run:
+
 ```bash
 pip install -r requirements.txt
 
 ---
 ### 3. Run the App Locally
 To launch the Streamlit app in your browser:
+
 ```bash
 streamlit run main.py
 
