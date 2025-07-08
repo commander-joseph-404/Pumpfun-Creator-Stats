@@ -74,6 +74,27 @@ streamlit run main.py
 
 Built with 🦁 by [@Comm_Joseph](https://x.com/Comm_Joseph)
 
+🚀 2. Install Dependencies
+Make sure you have Python 3.10+ installed. Then run:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+If you're using poetry:
+
+bash
+Copy
+Edit
+poetry install
+🧪 3. Run the App
+To start the Streamlit app locally:
+
+bash
+Copy
+Edit
+streamlit run app.py
+🧑‍💻 Author
 
 
 
